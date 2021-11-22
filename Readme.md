@@ -92,9 +92,9 @@ It also kind of explains that when MagPi, the official Raspberry Pi Magazine, co
 <div align="center">
 
 
-<a  href="https://www.linkedin.com/in/shivam-garg-15675720a/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin%20-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-<a href="https://twitter.com/Shivams_twt" target="_blank"><img src="https://img.shields.io/badge/twitter-%2300acee.svg?&style=for-the-badge&logo=twitter&logoColor=white&alt=twitter" /></a>
-<a href="mailto:shivanshagarwal2020@gmail.com"><img  alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+<a  href="https://www.linkedin.com/in/naresh-kumar-323a08213/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin%20-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="https://twitter.com/NareshK37338948" target="_blank"><img src="https://img.shields.io/badge/twitter-%2300acee.svg?&style=for-the-badge&logo=twitter&logoColor=white&alt=twitter" /></a>
+<a href="mailto:naresh936826@gmail.com"><img  alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
 
 </div>
 
@@ -112,9 +112,9 @@ It also kind of explains that when MagPi, the official Raspberry Pi Magazine, co
 
 <div align="center">
 
-<a href="https://github.com/The-Shivam-garg/Smart-mirror"><img src="https://img.shields.io/github/stars/The-Shivam-garg/Smart-mirror" alt="Stars Badge" /></a>
-<a href="https://github.com/The-Shivam-garg/Smart-mirror/network/members"><img src="https://img.shields.io/github/forks/The-Shivam-garg/Smart-mirror" alt="Forks Badge" /></a>
-<a href="https://github.com/The-Shivam-garg/Smart-mirror/graphs/contributors"><img alt="GitHub contributors" src="https://img.shields.io/github/contributors/The-Shivam-garg/Smart-mirror?color=2b9348" ></a>
+<a href="https://github.com/Naresh9368/N-Smart-Mirror"><img src="https://img.shields.io/github/stars/Naresh9368/N-Smart-Mirror" alt="Stars Badge" /></a>
+<a href="https://github.com/Naresh9368/N-Smart-Mirror/network/members"><img src="https://img.shields.io/github/forks/Naresh9368/N-Smart-Mirror" alt="Forks Badge" /></a>
+<a href="https://github.com/Naresh9368/N-Smart-Mirror/graphs/contributors"><img alt="GitHub contributors" src="https://img.shields.io/github/contributors/Naresh9368/N-Smart-Mirror?color=2b9348" ></a>
 
 [![GitHub license](https://img.shields.io/github/license/The-Shivam-garg/Smart-mirror?logo=github)](https://github.com/The-Shivam-garg/Smart-mirror/blob/master/LICENSE)
 </div>
